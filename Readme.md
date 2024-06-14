@@ -5,11 +5,14 @@
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt=" " width ="500" /></a> </p> 
 
-Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
+/* Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
 Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics/Machine Learning. Data Science has been my primary point of interest for a year now, and my zest lies in Machine Learning. 
 
 My programming, statistics & finance coursework has provided me with the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I look forward to the opportunity of being interviewed in order to share more about my experience and the skills that I could bring to any company.
+*/
+As a versatile software developer, I thrive at the intersection of cutting-edge data science and robust backend solutions. With a passion for transforming complex data into actionable insights and crafting scalable systems that power seamless user experiences, I bring a unique blend of analytical rigor and engineering precision to every project. From designing efficient algorithms to deploying resilient microservices, I am committed to driving innovation and delivering impactful solutions that propel businesses forward in the digital age.
+
 
 Mobile: 8938850177
 
