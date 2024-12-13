@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFEW1S_j-0uEw/profile-displaybackgroundimage-shrink_350_1400/0/1669915651290?e=1703721600&v=beta&t=y-Kc5Vy8NGGvsNgu9B0f_HLxWiagnjQlyF3RVhz6_uQ" />
+
 <h1 align="left">Hello 👋, I'm Akash Gupta</h1>
 <h3 align="left">A passionate Software Engineer from India</h3>
 <img align="right" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt=" " width="250" height="150"/> 
